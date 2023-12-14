@@ -1,0 +1,19 @@
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 700;
+    font-size: 80px;
+}
+.tex p{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-size: 35px;
+}
+.tex .btn{
+    width: 200px;
+    height: 70px;
+   
+}
+.tex .btn p{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif
+}
